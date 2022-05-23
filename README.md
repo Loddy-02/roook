@@ -11,6 +11,8 @@ ROOOK ciptaan saya ini adalah tools untuk menginstall root + ngrok yang berguna 
 * pkg install python -y
 * <pre>git clone https://github.com/Loddy-02/roook</pre>
 
+### TOKEN
+* https://bit.ly/rootngrok
 ### SUDAH DIUJI DI :
 * Termux
 
