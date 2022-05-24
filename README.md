@@ -12,7 +12,8 @@ ROOOK ciptaan saya ini adalah tools untuk menginstall root + ngrok yang berguna 
 * <pre>git clone https://github.com/Loddy-02/roook</pre>
 
 ### TOKEN
-* https://bit.ly/rootngrok
+* https://cararegistrasi.com/9pDC
+
 ### SUDAH DIUJI DI :
 * Termux
 
