@@ -11,6 +11,10 @@ ROOOK ciptaan saya ini adalah tools untuk menginstall root + ngrok yang berguna 
 * pkg install python -y
 * <pre>git clone https://github.com/Loddy-02/roook</pre>
 
+### VIDIO PENGINSTALLAN
+<p align="center"><a href="https://youtu.be/WsXBt5zRypA"><img title="Loddy XP" src="https://github.com/Loddy-02/msfdown/blob/main/image/20220610_125950.png"></a>
+</p>
+
 ### TOKEN
 * https://cararegistrasi.com/9pDC
 
