@@ -16,7 +16,7 @@ ROOOK ciptaan saya ini adalah tools untuk menginstall root + ngrok yang berguna 
 </p>
 
 ### TOKEN
-* https://cararegistrasi.com/9pDC
+* https://cararegistrasi.com/8CY7n2UuIV
 
 ### SUDAH DIUJI DI :
 * Termux
