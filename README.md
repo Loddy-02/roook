@@ -14,7 +14,7 @@ ROOOK ciptaan saya ini adalah tools untuk menginstall root + ngrok yang berguna 
 * <pre>git clone https://github.com/Loddy-02/roook</pre>
 
 ### VIDIO PENGINSTALLAN
-<p align="center"><a href="https://youtu.be/Ncyaw0SH3yw"><img title="Loddy XP" src="https://github.com/Loddy-02/roook/blob/main/image/20220628_022525.png"></a>
+<p align="center"><a href="https://youtu.be/WesOgfZMSpA"><img title="Loddy XP" src="https://github.com/Loddy-02/roook/blob/main/image/20220628_022525.png"></a>
 </p>
 
 ### TOKEN
